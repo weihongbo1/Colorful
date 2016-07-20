@@ -20,6 +20,11 @@ import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+/**
+ * @author WeiHongbo
+ *
+ * @version 0.1
+ */
 public class ColorfulHelper {
     //
     public static final int DEFAULT_COLORFUL = 0;
